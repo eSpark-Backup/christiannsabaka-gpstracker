@@ -9,6 +9,7 @@
 5. Type of antenna should be so carefully determined by comparing with reference products.
 6. The size of tracker should be as small as possible and should allow user to stick it to their desired document.
 7. There should be one button on the PCB for power on/off but that should ask the app first before shutting down the product. Turn on will work straighforward.
-8. There should be a red LED on the product.
-9. The product cost should be under $10.
-10. No on board charging is needed, the tracker will be replaceable.
+8. The product should be able to detect if its moving or idle. If it's moving, the location update frequency will be every 15mins by default and if its idle, the location update frequency will be every 6hrs.
+9. There should be a red LED on the product.
+10. The product cost should be under $10.
+11. No on board charging is needed, the tracker will be replaceable.

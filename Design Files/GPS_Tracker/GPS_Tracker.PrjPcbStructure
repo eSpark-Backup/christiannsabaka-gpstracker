@@ -1,2 +1,3 @@
-Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Sheet1.SchDoc|FileName=Sheet2.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=GSM_Sheet.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=GSM_Sheet.SchDoc|FileName=MCU_Sheet.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=GSM_Sheet.SchDoc|FileName=Power_Sheet.SchDoc|SheetNumber=1

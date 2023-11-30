@@ -1,3 +1,4 @@
-Record=TopLevelDocument|FileName=GSM_Sheet.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=GSM_Sheet.SchDoc|FileName=MCU_Sheet.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=GSM_Sheet.SchDoc|FileName=Power_Sheet.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Top_Sheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_GSM_Sheet|SchDesignator=U_GSM_Sheet|FileName=GSM_Sheet.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=GSM_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_MCU_Sheet|SchDesignator=U_MCU_Sheet|FileName=MCU_Sheet.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=MCU_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_Power_Sheet|SchDesignator=U_Power_Sheet|FileName=Power_Sheet.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
